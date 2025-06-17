@@ -23,22 +23,24 @@ Projeto de site institucional para uma fintech fictícia. A aplicação oferece 
 
 ## 📁 Estrutura de Arquivos
 
+```plaintext
 fintech/
-├── index.html # Página principal
-├── gastos.html # Página de controle de gastos
-├── cadastro.html # Página de cadastro com redirecionamento
-├── sobre.html # Página "Sobre nós"
-├── contato.html # Página de contato
+├── index.html           # Página principal
+├── gastos.html          # Página de controle de gastos
+├── cadastro.html        # Página de cadastro com redirecionamento
+├── sobre.html           # Página "Sobre nós"
+├── contato.html         # Página de contato
 │
-├── styles.css # Estilos globais com Bootstrap + personalizações
-├── script.js # JavaScript principal (interações, gastos, alertas)
+├── styles.css           # Estilos globais com Bootstrap + personalizações
+├── script.js            # JavaScript principal (interações, gastos, alertas)
 │
-├── /img # Ícones e imagens utilizadas
-│ ├── icon1.png
-│ ├── icon2.png
-│ └── ...
+├── /img                 # Ícones e imagens utilizadas
+│   ├── icon1.png
+│   ├── icon2.png
+│   └── ...
 │
-└── README.md # Este arquivo
+└── README.md            # Este arquivo
+```
 
 
 ---
