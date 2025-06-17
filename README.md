@@ -26,10 +26,8 @@ Projeto de site institucional para uma fintech fictícia. A aplicação oferece 
 ```plaintext
 fintech/
 ├── index.html           # Página principal
-├── gastos.html          # Página de controle de gastos
-├── cadastro.html        # Página de cadastro com redirecionamento
-├── sobre.html           # Página "Sobre nós"
-├── contato.html         # Página de contato
+├── demo.html          # Página de controle de gastos
+├── login.html        # Página de cadastro com redirecionamento
 │
 ├── styles.css           # Estilos globais com Bootstrap + personalizações
 ├── script.js            # JavaScript principal (interações, gastos, alertas)
